@@ -13,7 +13,7 @@ To install, run:
 Run
 
     # When in the directory of the scrapy.cfg file
-    scrapy crawl gobblin -a username=joar
+    scrapy crawl gobblin -a username=joar  # Where "joar" is your username
     
 and your files will end up in a folder named `downloaded`.
     
