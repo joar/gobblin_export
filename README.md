@@ -10,7 +10,8 @@ To install, run:
      
 ## Usage
 
-Run 
+Run
+
     # When in the directory of the scrapy.cfg file
     scrapy crawl gobblin -a username=joar
     
